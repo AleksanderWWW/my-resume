@@ -36,7 +36,7 @@
 ### DevOps Engineer
 **Neptune.ai** 
 
-*Jun. 2024 - Present*
+*Jun 2024 - Present*
 
 - Managing services in K8s cluster using Kubernetes and Helm.
 - Automating infrastructure management with Terraform.
@@ -47,7 +47,7 @@
 ### ML Integration Software Engineer
 **Neptune.ai** 
 
-*Oct. 2022 - Jun. 2024*
+*Oct 2022 - Jun 2024*
 
 - Maintaining open source Python client to the backend API.
 - Creating and maintaining integrations with popular Machine Learning frameworks e.g. ZenML, MosaicML, HuggingFace, Pytorch, Keras.
@@ -58,7 +58,7 @@
 ### Business Process Automation Consultant
 **Oerlikon Business Services Europe** 
 
-*Nov. 2019 - Oct. 2022*
+*Nov 2019 - Oct 2022*
 
 
 - Creating Python scripts automating workflows in various finance departments across the board.
@@ -94,11 +94,12 @@
 
 ## Skills
 
-| **Software Engineer** | **DevOps** | **Machine Learning** |
-|-----------------------|------------|----------------------|
-| **Python:** ★★★★☆     | **Github Actions:** ★★★☆☆ | **PyTorch:** ★★☆☆☆ |
-| **Pytest:** ★★★★☆     | **Terraform:** ★★☆☆☆      | **Keras:** ★★☆☆☆   |
-| **Go:** ★★★☆☆        | **Kubernetes:** ★★☆☆☆     | **MLflow:** ★★☆☆☆  |
-| **Git:** ★★★☆☆       | **Helm:** ★★☆☆☆           | **AWS SageMaker:** ★☆☆☆☆ |
-|                       | **AWS:** ★☆☆☆☆            |                      |
+| **Software Engineer** | **DevOps**                | **Machine Learning**     |
+|-----------------------|---------------------------|--------------------------|
+| **Python:** ★★★★☆     | **Github Actions:** ★★★☆☆ | **PyTorch:** ★★☆☆☆       |
+| **Pytest:** ★★★★☆     | **Terraform:** ★★☆☆☆      | **Keras:** ★★☆☆☆         |
+| **Go:** ★★★☆☆         | **Kubernetes:** ★★☆☆☆     | **MLflow:** ★★☆☆☆        |
+| **Git:** ★★★☆☆        | **Helm:** ★★☆☆☆           | **Airflow:** ★★☆☆☆       |
+|                       | **Docker:** ★★☆☆☆         | **AWS SageMaker:** ★☆☆☆☆ |
+|                       | **AWS:** ★☆☆☆☆            |                          |
 ---
