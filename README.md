@@ -96,11 +96,11 @@
 
 | **Software Engineer** | **DevOps**                | **Machine Learning**     |
 |-----------------------|---------------------------|--------------------------|
-| **Python:** ★★★★☆     | **Github Actions:** ★★★☆☆ | **PyTorch:** ★★☆☆☆       |
-| **Pytest:** ★★★★☆     | **Terraform:** ★★☆☆☆      | **Keras:** ★★☆☆☆         |
-| **Go:** ★★★☆☆         | **Kubernetes:** ★★☆☆☆     | **MLflow:** ★★☆☆☆        |
+| **Python:** ★★★★☆     | **Github Actions:** ★★★☆☆ | **PyTorch:** ★★★☆☆       |
+| **Pytest:** ★★★★☆     | **Terraform:** ★★★☆☆      | **Keras:** ★★★☆☆         |
+| **Go:** ★★★☆☆         | **Kubernetes:** ★★★☆☆     | **MLflow:** ★★☆☆☆        |
 | **Git:** ★★★☆☆        | **Helm:** ★★☆☆☆           | **Airflow:** ★★☆☆☆       |
-|                       | **Docker:** ★★☆☆☆         | **AWS SageMaker:** ★☆☆☆☆ |
+|                       | **Docker:** ★★★☆☆         | **AWS SageMaker:** ★☆☆☆☆ |
 |                       | **Grafana:** ★★☆☆☆        |                          |
 |                       | **AWS:** ★☆☆☆☆            |                          |
 ---
