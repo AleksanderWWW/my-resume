@@ -1,6 +1,6 @@
 # Aleksander Wojnarowicz
 
-**MLOps | Software Engineer**
+**MLOps | DevOps**
 
 ---
 
@@ -13,19 +13,14 @@
         <li><strong>Phone:</strong> 785-320-830</li>
         <li><strong>Email:</strong> alwojnarowicz@gmail.com</li>
         <li><strong>GitHub:</strong> <a href="https://github.com/AleksanderWWW">github.com/AleksanderWWW</a></li>
-        <li><strong>LinkedIn:</strong> linkedin.com/in/aleksander-wojnarowicz-394ba814a/</li>
+        <li><strong>LinkedIn:</strong> <a href=linkedin.com/in/aleksander-wojnarowicz-394ba814a>Aleksander Wojnarowicz</a></li>
       </ul>
     </td>
     <td>
       <h2>Summary</h2>
-      <p>Results-oriented MLOps and Software Engineer with 4+ years of experience. Delivering value to the company using diverse expertise.</p>
+      <p>DevOps engineer experienced in automating, deploying, and maintaining infrastructure in a microservice and data-intensive setup with expertise in the field of deploying and managing machine learning models.</p>
       <p>Highly motivated and passion-driven. Strong team-player with great communication skills.</p>
-      <h2>Languages</h2>
-      <ul>
-        <li><strong>Polish:</strong> Native</li>
-        <li><strong>English:</strong> Proficient (C2)</li>
-      </ul>
-    </td>
+      <p>Skilled in Kubernetes, Docker, CI/CD pipelines, and cloud-based solutions (Azure, GCP).</p>
   </tr>
 </table>
 
@@ -34,43 +29,29 @@
 
 ## Experience
 
-### DevOps Engineer
+### MLOps Engineer
 **Neptune.ai** 
 
-*Apr 2024 - Present*
+*Oct 2022 - Present*
 
-- Managing services in Kubernetes (K8s) cluster using Kubernetes and Helm in a data-intensive application.
-- Automating PVC backups with Kubernetes and Helm,
-- Setting up alerting mechanisms to monitor the status of PVCs and backups, ensuring real-time notifications in case of issues or failures,
-- Designing and documenting processes for AKS backup and retrieval in a multi-region cloud setup,
-- Automating Azure and GCP infrastructure management with Terraform,
-- Monitoring application performance with Grafana and Prometheus,
-- Set up monitoring solutions to track the health and performance of applications in real time,
-- Using Grafana to visualize performance metrics, creating dashboards to monitor CPU, memory, storage usage, and network performance,
-- Setting up alerts for critical thresholds, ensuring proactive detection of potential performance issues and quick response times,
-- Creating automated performance testing tools using Python and Locust,
+- Managing services in **Azure Kubernetes Service (AKS)** and **Google Kubernetes Engine (GKE)** using **Kubernetes**, **Helm** and **Terraform**,
+- Automating **PVC backups** with **Kubernetes** and **Helm**,
+- Designing and documenting processes for **AKS backup and retrieval** in a multi-region cloud setup,
+- Automating **Azure** and **GCP** infrastructure management with **Terraform**,
+- Monitoring application performance with **Grafana** and **Prometheus**,
+- Creating automated performance testing tools using **Python** and **Locust**,
 - Deploying those testing tools to simulate various load scenarios and stress-test the system,
-- Writing and managing GitLab CI/CD pipelines to automate testing, building, and deployment processes,
-- Developing a custom Terraform provider, written in Go, to provision Neptune projects and users.
-
-
-### ML Integration Software Engineer
-**Neptune.ai** 
-
-*Oct 2022 - Jun 2024*
-
-- Developing and maintaining the open-source python API client,
-- Collaborating with internal teams and the open-source community to gather feedback and implementing requested features,
+- Writing and managing **GitLab CI/CD** pipelines to automate testing, building, and deployment processes,
+- Developing a custom **Terraform** provider, written in **Go**, to provision **Neptune.ai** projects and users,
+- Managing customer pricing plans in **GCP Cloud SQL** and **Stripe**,
+- Developing and maintaining the open-source **Python API client**,
 - Providing technical support for users facing issues with the API client,
-- Developing and testing the Python API client and integrations on multiple OS platforms such as Windows, macOS, and Linux,
-- Debugging platform-specific issues and optimizing code for cross-platform compatibility,
-- Maintaining existing integrations between Neptune.ai and key ML frameworks,
-- Developing new integrations with frameworks like ZenML, MosaicML, Detectron2 and MLflow to streamline experiment tracking for ML engineers,
-- Ensuring compatibility with updates in these frameworks, maintaining regular updates, and adding features as the frameworks evolve,
+- Developing and maintaining integrations between **Neptune.ai** and key ML frameworks,
+- Developing new integrations with frameworks like **Airflow**, **ZenML**, **MosaicML**, **Kedro** **Detectron2** and **MLflow** to streamline experiment tracking for ML engineers,
 - Writing documentation to help users set up and use these integrations effectively,
 - Collaborating with open-source projects and contributors to ensure seamless integration,
-- Setting up CI/CD workflows in GitHub Actions to automate the build, testing, and deployment of the Python client and integrations,
-- Representing Neptune.ai at industry events and contribute to the MLOps community,
+- Setting up **CI/CD workflows** in **GitHub Actions** to automate the build, testing, and deployment of the Python client and integrations,
+- Representing **Neptune.ai** at industry events and contribute to the MLOps community,
 - Collaborating with marketing and product teams to create content for public speaking engagements.
 
 
@@ -98,13 +79,13 @@
       <em>2017 - 2020</em></p>
     </td>
     <td>
-      <h2>Projects</h2>
+      <h2>Open Source Projects</h2>
       <h3>ABCD Graph Generator</h3>
-      <p><a href="https://github.com/AleksanderWWW/abcd-graph">github.com/AleksanderWWW/abcd-graph</a><br>
+      <p><a href="https://github.com/AleksanderWWW/abcd-graph">GitHub</a><br>
       A Python library for generating Artificial Benchmark for Community Detection graphs.</p>
-      <h3>Financial Datareader</h3>
-      <p><a href="https://github.com/AleksanderWWW/go-datareader">github.com/AleksanderWWW/go-datareader</a><br>
-      A Go library for efficient financial data scraping and exporting to a tabular form.</p>
+      <h3>Neptune Terraform provider</h3>
+      <p><a href="https://github.com/AleksanderWWW/terraform-provider-neptune">GitHub</a><br>
+      A custom provider to provision Neptune projects and users in an infractructure-as-code manner.</p>
     </td>
   </tr>
 </table>
@@ -113,36 +94,41 @@
 
 ## Skills
 
-### Advanced:
-
-- **Python**
-- **Pytest**
+### DevOps & Infrastructure
 - **Kubernetes**
-
-### Intermediate
-
-- **Terraform**
 - **Helm**
-- **Docker**
-- **Go**
-- **Git**
+- **Terraform**
 - **GitHub Actions**
-- **Pytorch**
-- **Keras**
-- **Locust**
-- **Bash**
-
-### Prior Experience
-
-- **Grafana**
-- **Prometheus**
-- **Azure**
 - **GitLab CI/CD**
+
+### Programming
+- **Python**
+- **Bash**
+- **Go**
+- **MySQL**
+
+### Cloud Services
+- **Azure** (AKS, Azure Disk Storage)
+- **GCP** (Cloud SQL)
+
+### Version Control
+- **Git**
+- **GitHub**
+- **GitLab**
+
+### Monitoring
+- **Prometheus**
+- **Grafana**
+
+### Automation & Orchestration
 - **Airflow**
-- **GCP**
+- **Kedro**
+- **ZenML**
 
-### Learning
+### Experiment Tracking
+- **Neptune**
+- **MLFlow**
 
-- **Ansible**
-- **Jenkins**
-
+### Languages
+- **English** (C2)
+- **Polish** (Native)
