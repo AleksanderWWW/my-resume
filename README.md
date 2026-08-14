@@ -22,6 +22,7 @@ In my spare time I collaborate with scientists at the Warsaw School of Economics
 
 - **Internal Platform Development:** Architected a greenfield on-premises deployment platform using **Kubernetes** and **Helm**, enabling seamless support for air-gapped environments.
 - **Control Plane Engineering:** Engineered a custom **Kubernetes Operator (Go)** to orchestrate complex military simulation workloads, automating resource scheduling and lifecycle management.
+- **Crisis Management & Account Leadership:** Stepped in during C-level absence to resolve a mission-critical air-gapped incident for a key defense client; managed dev team activities, negotiated deployment windows, performed upgrade on client's infrastructure and reprioritized frontend feature deliverables preventing contract churn and strengthening client trust.
 - **Infrastructure Software:** Developed a custom **Terraform Provider (Go)** to manage simulation-specific database assets as code, treating infrastructure as a first-class product.
 - **DevEx Optimization:** Modernized the backend stack (Python/Django) to be cloud-agnostic and built Terraform-based automation tools to bootstrap clusters, significantly reducing environment setup time.
 - **Security & CI/CD:** Hardened application security posture and established robust CI pipelines via **Azure Pipelines**, increasing system reliability and test coverage.
